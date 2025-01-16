@@ -1,0 +1,11 @@
+learning_rate: 0.2
+noise: 0.03
+env_name: Solo12-v4
+episode_length: 500
+direction ratio: 2.0
+Normal initialization: 1
+Gait: trot
+Incline_Orientaion_Anti-Clockwise: True
+domain_Randomization: False
+Curriculmn introduced at iteration: 20
+Old policy, new reward fuction
